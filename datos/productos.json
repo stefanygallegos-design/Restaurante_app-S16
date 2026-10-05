@@ -1,1 +1,26 @@
-
+[
+    {
+        "id": "P001",
+        "nombre": "Hamburguesa Clásica",
+        "precio": 4.50,
+        "stock": 20
+    },
+    {
+        "id": "P002",
+        "nombre": "Pizza Personal",
+        "precio": 6.00,
+        "stock": 15
+    },
+    {
+        "id": "P003",
+        "nombre": "Papas Fritas",
+        "precio": 2.50,
+        "stock": 30
+    },
+    {
+        "id": "P004",
+        "nombre": "Jugo Natural",
+        "precio": 2.00,
+        "stock": 25
+    }
+]
